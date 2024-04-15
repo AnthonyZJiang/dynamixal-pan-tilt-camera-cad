@@ -21,3 +21,7 @@ https://a360.co/4aqoyKB
 | 10 | Tappex 017M2.5       | M2.5 threaded insert                | 4        | Purchase    |
 | 11 | Cable clip short     | Cable clip (optional)               | 4        | 3D print    |
 | 12 | Cable clip long      | Long leg cable clip (optional)      | 1        | 3D print    |
+
+### ROS code
+- Pan tilt device: https://github.com/AnthonyZJiang/dynamixel_pan_tilt
+- Camera: http://wiki.ros.org/usb_cam
