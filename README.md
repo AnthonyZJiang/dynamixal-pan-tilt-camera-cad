@@ -1,6 +1,8 @@
 # dynamixal-pan-tilt-camera-cad
 CAD files for Dynamical Pan Tilt camera
 
+https://github.com/AnthonyZJiang/dynamixel_pan_tilt/assets/8778250/a04f16a8-ec1d-4a47-b50e-7347ddd1794e
+
 ### Fusion
 The CAD is also available in Fusion
 https://a360.co/4aqoyKB
@@ -23,5 +25,5 @@ https://a360.co/4aqoyKB
 | 12 | Cable clip long      | Long leg cable clip (optional)      | 1        | 3D print    |
 
 ### ROS code
-- Pan tilt device: https://github.com/AnthonyZJiang/dynamixel_pan_tilt
+- Pan tilt device: https://github.com/AnthonyZJiang/dynamixel_pan_tilt_ros
 - Camera: http://wiki.ros.org/usb_cam
