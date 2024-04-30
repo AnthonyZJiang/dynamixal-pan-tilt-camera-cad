@@ -13,7 +13,7 @@ The CAD model is also available in Autodesk Fusion 360. Click the image below to
 | #  | Item                 | Description                         | Quantity | Acquisition |
 |----|----------------------|-------------------------------------|----------|-------------|
 | 1  | Dynamixel XL330-M288 | Smart servo                         | 2        | Purchase    |
-| 2  | Arducam UC-684       | 2MP wide angle low light USB camera | 1        | Purchase    |
+| 2  | Arducam B0202        | 2MP wide angle low light USB camera | 1        | Purchase    |
 | 3  | FPX330-H101          | Dynamixel frame for XL330           | 2        | Purchase    |
 | 4  | FPX330-S102          | Dynamixel frame for XL330           | 2        | Purchase    |
 | 5  | Base mount           | Base of the pan tilt device         | 1        | 3D print    |
