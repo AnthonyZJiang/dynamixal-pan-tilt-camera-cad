@@ -1,10 +1,10 @@
 # dynamixal-pan-tilt-camera-cad
-CAD files for Dynamical Pan Tilt camera
+CAD files for the Dynamical Pan Tilt camera
 
 https://github.com/AnthonyZJiang/dynamixel_pan_tilt/assets/8778250/a04f16a8-ec1d-4a47-b50e-7347ddd1794e
 
-### Fusion
-The CAD is also available in Fusion:
+### Autodesk Fusion 360
+The CAD model is also available in Autodesk Fusion 360. Click the image below to open the web view.
 
 <a target="_black" href="https://a360.co/4aqoyKB"><img width="620" alt="image" src="https://github.com/AnthonyZJiang/dynamixal-pan-tilt-camera-cad/assets/8778250/9c16dcb3-a206-4d0d-94db-9c3fb3061820"></a>
 
