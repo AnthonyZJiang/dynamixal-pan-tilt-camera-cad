@@ -19,9 +19,15 @@ https://github.com/AnthonyZJiang/dynamixel_pan_tilt/assets/8778250/a04f16a8-ec1d
 Note that the LED above the camera shown in the video is non-standard and excluded in the CAD model.
 
 ### Autodesk Fusion 360
-The CAD model is also available in Autodesk Fusion 360. Click the image below to open the web view.
+The CAD model is also available in Autodesk Fusion 360.
+
+[Standard version](https://a360.co/4aqoyKB)↓
 
 <a target="_black" href="https://a360.co/4aqoyKB"><img width="620" alt="image" src="https://github.com/AnthonyZJiang/dynamixal-pan-tilt-camera-cad/assets/8778250/9c16dcb3-a206-4d0d-94db-9c3fb3061820"></a>
+
+[Lite version](https://a360.co/44uyOPP)↓
+
+<a target="_black" href="https://a360.co/44uyOPP"><img width="630" alt="image" src="https://github.com/AnthonyZJiang/dynamixal-pan-tilt-camera-cad/assets/8778250/a88e17a0-8895-4d86-8b50-e13b7b536d87"></a>
 
 ### Part list
 
